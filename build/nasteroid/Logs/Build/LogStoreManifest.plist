@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>DC1B7F00-EF03-429E-B492-E98F987F7B1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC1B7F00-EF03-429E-B492-E98F987F7B1C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nasteroid project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nasteroid</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project nasteroid with scheme nasteroid and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580077454.21219802</real>
+			<key>timeStoppedRecording</key>
+			<real>580077474.52231002</real>
+			<key>title</key>
+			<string>Building project nasteroid with scheme nasteroid and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DC1B7F00-EF03-429E-B492-E98F987F7B1C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

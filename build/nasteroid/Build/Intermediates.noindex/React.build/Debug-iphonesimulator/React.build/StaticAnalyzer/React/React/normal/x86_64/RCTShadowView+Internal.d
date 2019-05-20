@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Views/RCTShadowView+Internal.m \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/ios/build/nasteroid/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/ios/build/nasteroid/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/ios/build/nasteroid/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/ios/build/nasteroid/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/alexbiddle/Downloads/react-native-May-Projects/nasteroid/node_modules/react-native/React/Base/RCTInvalidating.h
